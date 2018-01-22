@@ -1,0 +1,10 @@
+c:\users\wendel.cavalcanti\documents\visual studio 2010\Projects\Deal\Deal\bin\Debug\Deal.exe
+c:\users\wendel.cavalcanti\documents\visual studio 2010\Projects\Deal\Deal\bin\Debug\Deal.pdb
+c:\users\wendel.cavalcanti\documents\visual studio 2010\Projects\Deal\Deal\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wendel.cavalcanti\documents\visual studio 2010\Projects\Deal\Deal\obj\x86\Debug\Deal.exe
+c:\users\wendel.cavalcanti\documents\visual studio 2010\Projects\Deal\Deal\obj\x86\Debug\Deal.pdb
+C:\_wendel\votacao\Deal\obj\x86\Debug\Deal.csprojResolveAssemblyReference.cache
+C:\_wendel\votacao\Deal\bin\Debug\Deal.exe
+C:\_wendel\votacao\Deal\bin\Debug\Deal.pdb
+C:\_wendel\votacao\Deal\obj\x86\Debug\Deal.exe
+C:\_wendel\votacao\Deal\obj\x86\Debug\Deal.pdb

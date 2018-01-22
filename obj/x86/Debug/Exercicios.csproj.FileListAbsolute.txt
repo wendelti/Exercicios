@@ -1,0 +1,5 @@
+C:\_wendel\votacao\Deal\obj\x86\Debug\Exercicios.csprojResolveAssemblyReference.cache
+C:\_wendel\votacao\Deal\bin\Debug\Exercicios.exe
+C:\_wendel\votacao\Deal\bin\Debug\Exercicios.pdb
+C:\_wendel\votacao\Deal\obj\x86\Debug\Exercicios.exe
+C:\_wendel\votacao\Deal\obj\x86\Debug\Exercicios.pdb
